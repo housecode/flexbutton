@@ -8,8 +8,8 @@
     <owners>Robin-Manuel Thiel</owners>
     <license type="expression">MIT</license>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <projectUrl>https://github.com/robinmanuelthiel/flexbutton</projectUrl>
-    <iconUrl>https://raw.githubusercontent.com/robinmanuelthiel/flexbutton/master/Design/Logo-150.png</iconUrl>
+    <projectUrl>https://github.com/housecode/flexbutton</projectUrl>
+    <iconUrl>https://raw.githubusercontent.com/housecode/flexbutton/master/Design/Logo-150.png</iconUrl>
     <description>Flexible button control for Xamarin.Forms</description>
     <summary>Flexible button control for Xamarin.Forms</summary>
     <releaseNotes>Add IconOrientation.Top</releaseNotes>
@@ -37,6 +37,11 @@
     <file src="bin/Release/monoandroid90/Flex.dll" target="lib/monoandroid90" />
     <file src="bin/Release/monoandroid90/Flex.pdb" target="lib/monoandroid90" />
     <file src="bin/Release/monoandroid90/Flex.xml" target="lib/monoandroid90" />
+
+    <!-- Xamarin.Android 10.0 -->
+    <file src="bin/Release/monoandroid10.0/Flex.dll" target="lib/monoandroid10.0" />
+    <file src="bin/Release/monoandroid10.0/Flex.pdb" target="lib/monoandroid10.0" />
+    <file src="bin/Release/monoandroid10.0/Flex.xml" target="lib/monoandroid10.0" />
 
     <!-- Xamarin.UWP -->
     <file src="bin/Release/uwp/Flex.dll" target="lib/uap10.0" />

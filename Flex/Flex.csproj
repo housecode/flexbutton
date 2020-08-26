@@ -12,8 +12,8 @@
 		<Version>0.11.1</Version>
 		<Authors>Robin-Manuel Thiel</Authors>
 		<Owners>Robin-Manuel Thiel</Owners>
-		<ProjectUrl>https://github.com/robinmanuelthiel/flexbutton</ProjectUrl>
-		<IconUrl>https://raw.githubusercontent.com/robinmanuelthiel/flexbutton/master/Design/Logo-150.png</IconUrl>
+		<ProjectUrl>https://github.com/housecode/flexbutton</ProjectUrl>
+		<IconUrl>https://raw.githubusercontent.com/housecode/flexbutton/master/Design/Logo-150.png</IconUrl>
 		<ReleaseNotes>Add IconOrientation.Top</ReleaseNotes>
 
 		<NeutralLanguage>en</NeutralLanguage>
