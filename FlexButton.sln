@@ -2,10 +2,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27428.2005
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flex.Android", "Flex.Android\Flex.Android.csproj", "{7C0CA7BC-842F-4492-AE49-C530618315F9}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flex.iOS", "Flex.iOS\Flex.iOS.csproj", "{43DD689A-3918-43EB-B654-8E1C54F23C72}"
-EndProject
+
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flex.Demo.iOS", "Flex.Demo.iOS\Flex.Demo.iOS.csproj", "{56D7D974-CB4E-4529-AE84-51EF1450F6FC}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flex.Demo.UITests", "Flex.Demo.UITests\Flex.Demo.UITests.csproj", "{E11780C4-2D05-48BE-A8C2-C0C89463A8D1}"
@@ -23,8 +20,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Nuget", "Nuget", "{278A8BE1
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flex.Demo.UWP", "Flex.Demo.UWP\Flex.Demo.UWP.csproj", "{FE0AADE0-65A2-465D-B38F-0E61E2763491}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flex.UWP", "Flex.UWP\Flex.UWP.csproj", "{82BBCD26-EE52-4701-BD3B-3AC28FE9C235}"
-EndProject
+
 Project("{9344BDBB-3E7F-41FC-A0DD-8665D75EE146}") = "Flex.Demo.Droid", "Flex.Demo.Droid\Flex.Demo.Droid.csproj", "{2A4B970A-F4EF-4A22-A5DA-CF8A3940F551}"
 EndProject
 Global

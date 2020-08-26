@@ -136,17 +136,13 @@
       <Version>6.2.8</Version>
     </PackageReference>
     <PackageReference Include="Xamarin.Forms">
-      <Version>4.1.0.581479</Version>
+      <Version>4.7.0.1080</Version>
     </PackageReference>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Flex.Demo\Flex.Demo.csproj">
       <Project>{1a52e52b-9644-4c1c-9e25-6c72fe33c25d}</Project>
       <Name>Flex.Demo</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\Flex.UWP\Flex.UWP.csproj">
-      <Project>{82bbcd26-ee52-4701-bd3b-3ac28fe9c235}</Project>
-      <Name>Flex.UWP</Name>
     </ProjectReference>
     <ProjectReference Include="..\Flex\Flex.csproj">
       <Project>{4fbe2794-bd54-4c5e-b95a-46b2d5606c5f}</Project>
