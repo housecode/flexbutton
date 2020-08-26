@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata minClientVersion="">
+    <id>Forms.Controls.FlexButton</id>
+    <version>0.11.1</version>
+    <title>FlexButton for Xamarin.Forms</title>
+    <authors>Robin-Manuel Thiel</authors>
+    <owners>Robin-Manuel Thiel</owners>
+    <license type="expression">MIT</license>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <projectUrl>https://github.com/robinmanuelthiel/flexbutton</projectUrl>
+    <iconUrl>https://raw.githubusercontent.com/robinmanuelthiel/flexbutton/master/Design/Logo-150.png</iconUrl>
+    <description>Flexible button control for Xamarin.Forms</description>
+    <summary>Flexible button control for Xamarin.Forms</summary>
+    <releaseNotes>Add IconOrientation.Top</releaseNotes>
+    <copyright></copyright>
+    <language></language>
+    <tags>flex xamarin.forms control button flexbutton xamarin flexible pill</tags>
+    <dependencies>
+      <group>
+        <dependency targetFramework="" id="Xamarin.Forms" version="4.7.0.1080" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <!-- .NET Standard -->
+    <file src="bin/Release/netstandard2.0/Flex.dll" target="lib/netstandard2.0" />
+    <file src="bin/Release/netstandard2.0/Flex.pdb" target="lib/netstandard2.0" />
+    <file src="bin/Release/netstandard2.0/Flex.xml" target="lib/netstandard2.0" />
+
+    <!-- Xamarin.iOS -->
+    <file src="bin/Release/xamarin.ios10/Flex.dll" target="lib/xamarinios10" />
+    <file src="bin/Release/xamarin.ios10/Flex.pdb" target="lib/xamarinios10" />
+    <file src="bin/Release/xamarin.ios10/Flex.xml" target="lib/xamarinios10" />
+
+    <!-- Xamarin.Android -->
+    <file src="bin/Release/monoandroid90/Flex.dll" target="lib/monoandroid90" />
+    <file src="bin/Release/monoandroid90/Flex.pdb" target="lib/monoandroid90" />
+    <file src="bin/Release/monoandroid90/Flex.xml" target="lib/monoandroid90" />
+
+    <!-- Xamarin.UWP -->
+    <file src="bin/Release/uwp/Flex.dll" target="lib/uap10.0" />
+    <file src="bin/Release/uwp/Flex.pdb" target="lib/uap10.0" />
+    <file src="bin/Release/uwp/Flex.xml" target="lib/uap10.0" />
+  </files>
+</package>
